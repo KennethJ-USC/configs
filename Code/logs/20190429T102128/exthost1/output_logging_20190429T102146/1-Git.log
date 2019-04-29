@@ -1,0 +1,15 @@
+Looking for git in: git
+Using git 2.7.4 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/kennethj/project/africa-heatmap
+> git status -z -u
+> git check-ignore -z --stdin
+> git show :index.html
+> git check-ignore -z --stdin
+> git show :css/style.css
+> git show :js/index.js
+> git show :index.html
+> git show :js/index.js
+> git show :js/index.js
+> git show :js/index.js

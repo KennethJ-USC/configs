@@ -1,0 +1,6 @@
+{
+    "code-runner.runInTerminal": true,
+    "code-runner.saveAllFilesBeforeRun": true,
+    "code-runner.defaultLanguage": "bash",
+    "code-runner.customCommand": "    python3 minimizer.py /home/kennethj/project/dfa-project/prog-proj/test-suite/minimizer/nonminimalDFA1.txt"
+}
